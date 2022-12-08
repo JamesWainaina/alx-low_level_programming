@@ -1,5 +1,4 @@
-#!/bin/bash
-#include < stdio.h >
+#include <stdio.h>
 /**
  * main -Print a line of code using puts function
  *
