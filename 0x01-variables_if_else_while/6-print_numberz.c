@@ -9,7 +9,7 @@ int main(void)
 {
 	int t = 0;
 
-	while (t < 10)
+	while (t < 9)
 	{
 		putchar(20 + t);
 		t++;
