@@ -1,5 +1,4 @@
 #include <studio.h>
-#include <studio.h>
 /**
  * main - main block
  *label: Getting a random letter
