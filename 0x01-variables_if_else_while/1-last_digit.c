@@ -22,10 +22,10 @@ int main(void)
 
 				n = rand() - RAND_MAX / 2;
 				y = n % 10;
-				printf("Last digit of  %d is %d", n, y);
+				printf("Last digit of %d is %d", n, y);
 				if (y > 5)
 				{
-					printf(" and is greater than 5");
+					printf("and is greater than 5");
 				}
 				if (y == 0)
 				{
