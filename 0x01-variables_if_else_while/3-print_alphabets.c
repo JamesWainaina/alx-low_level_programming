@@ -22,4 +22,7 @@ int main(void)
 		putchar(t);
 		t++;
 	}
+
+	putchar('\n');
+	return (0);
 }
