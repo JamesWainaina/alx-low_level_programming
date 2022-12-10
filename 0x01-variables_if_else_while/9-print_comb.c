@@ -15,11 +15,10 @@ int main(void)
 		putchar(48 + t);
 		if (t != 9)
 		{
-			putchar('.');
+			putchar(',');
 		}
 		t++;
 	}
-	
 	putchar('\n');
 	return (0);
 
