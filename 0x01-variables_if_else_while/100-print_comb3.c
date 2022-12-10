@@ -23,14 +23,14 @@ int main(void)
 
 				if (t + e != 17)
 				{
-					putcahar(',');
+					putchar(',');
 					putchar(' ');
 				}
 			}
 
 			t++;
 		}
-		e++
+		e++;
 	}
 	putchar('\n');
 	return (0);
