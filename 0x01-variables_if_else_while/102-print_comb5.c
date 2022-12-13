@@ -5,6 +5,7 @@
  * label: program that prints combunation
  * of two two-digit number
  *
+ * Return: return 0 if successful
  */
 int main(void)
 {
