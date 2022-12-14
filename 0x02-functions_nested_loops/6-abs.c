@@ -2,13 +2,13 @@
 
 /**
  * _abs - Computes the absolute value of an integer
- * @t: The intergr to be computed 
+ * @t: The intergr to be computed
  * Return: The absolute  value
  */
-int _bas(int t)
+int _abs(int t)
 {
-       	if (t >= 0)
-	       return (t);
+	if (t >= 0)
+		return (t);
 	else
-	       return (-t);
+		return (-t);
 }
