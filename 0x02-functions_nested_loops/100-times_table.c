@@ -30,7 +30,7 @@ int main(void)
 				if (prod >= 100)
 				{
 					_putchar((prod / 100) + '0');
-					_putcahr((prod / 10)) % 10 + '0');
+					_putchar((prod / 10)) % 10 + '0');
 				}
 				else if (prod <= 99 && prod >= 10)
 				{
