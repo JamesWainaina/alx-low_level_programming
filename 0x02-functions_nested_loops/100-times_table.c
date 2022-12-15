@@ -3,13 +3,13 @@
 /**
  * main - prints n times table
  *
- * Return: Always 0
+ * Return: Alway
  */
-int main(void)
+void print_times_table(int n)
 {
 	int num, mult, prod;
 
-	if (n >= 0 && n <= 15)
+i	if (n >= 0 && n <= 15)
 	{
 		for (num = 0; num <= n; num++)
 		{
