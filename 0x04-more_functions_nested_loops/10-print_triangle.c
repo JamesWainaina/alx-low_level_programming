@@ -19,8 +19,8 @@ void print_triangle(int size)
 
 			if (hash == size)
 				continue;
-			_putcahr('\n');
+			_putchar('\n');
 		}
 	}
-	_putcahr('\n');
+	_putchar('\n');
 }
