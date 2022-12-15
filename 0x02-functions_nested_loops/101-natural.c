@@ -3,11 +3,11 @@
  *  * File: 101-natural.c
  *
  * Auth: Brennan D Baraban
- *
- */
+*/
+
+#include <stdio.h>
 
 
-#include <studio.h>
 
 /**
  *
