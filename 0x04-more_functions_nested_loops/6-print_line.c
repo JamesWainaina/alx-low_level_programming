@@ -2,7 +2,7 @@
 
 /**
  * print_line - draws a straight line in the terminal.
- * @n: the number of  _ charasters to be printe.
+ * @n: the number of  _ characters to be printed.
  */
 void print_line(int n)
 {
