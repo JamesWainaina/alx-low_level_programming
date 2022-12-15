@@ -1,9 +1,6 @@
 #include "main.h"
 
-
-
 /**
- *
  * main - prints n times table
  *
  * Return: Always 0
@@ -11,6 +8,7 @@
 int main(void)
 {
 	int num, mult, prod;
+	int n
 
 	if (n >= 0 && n <= 15)
 	{
@@ -40,7 +38,7 @@ int main(void)
 				}
 				_putchar((prod % 10) + '0');
 			}
-			_putcahr('\n');
+			_putchar('\n');
 		}
 	}
 }
