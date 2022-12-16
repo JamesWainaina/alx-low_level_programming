@@ -1,4 +1,4 @@
-#include "main.h"
+
 /**
  * main - tests functions that prints if integer is postive or negative
  * Return: 0
