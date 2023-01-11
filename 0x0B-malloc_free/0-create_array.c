@@ -4,7 +4,6 @@
  */
 #include "main.h"
 #include  <stdlib.h>
-#include <stdio.h>
 /**
  * malloc_checked - Allocates memeory using malloc.
  * @b: The number of bytes to be allocated.
