@@ -22,7 +22,7 @@ void print_opcodes(char *a, int n)
 /**
  * main - prints the opcode of its own main function
  * @argc: number of arguments passed to this function
- * @argc: array of pointers to arguments
+ * @argv: array of pointers to arguments
  *
  * Return: always 0
  */
