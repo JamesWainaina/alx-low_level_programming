@@ -5,6 +5,11 @@
 #include <stdio.h>
 #include <math.h>
 
+/**
+ * @listint_s: structure of listint_s
+ * @skiplist_s: structure of skiplist_s
+*/
+
 typedef struct listint_s
 {
 	int n;
